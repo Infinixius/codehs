@@ -4,8 +4,6 @@ This repository contains the code examples and answers for the **Computer Scienc
 
 Quiz answers and open-response answers are NOT included! Please keep in mind copy-pasting code directly from here is not the smartest thing to do. You should try to solve the problems yourself first, and only use this as a reference if you get stuck.
 
-**Unit quizzes (the final test of each unit) are NOT included. This repository is intended to help you get through the "busy work" part of CodeHS, not to blatantly cheat. The smaller quizzes in each lesson are included.**
-
 # How does it work?
 
 Two scripts, `automate.js` and `browser.js` are used to automate the process of copying code from CodeHS to this repository. Keep in mind [Node.JS](https://nodejs.org) is required to run these!
