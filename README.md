@@ -2,13 +2,13 @@
 
 This repository contains the code examples and answers for the **Computer Science Principles in JavaScript** course on [CodeHS](https://codehs.com). Leave a star 🌟 if you found this helpful!
 
-Not all quiz answers are included, and no open-response answers are included. Please keep in mind copy-pasting code directly from here is not the smartest thing to do. You should try to solve the problems yourself first, and only use this as a reference if you get stuck.
+Quiz answers and open-response answers are NOT included! Please keep in mind copy-pasting code directly from here is not the smartest thing to do. You should try to solve the problems yourself first, and only use this as a reference if you get stuck.
 
 **Unit quizzes (the final test of each unit) are NOT included. This repository is intended to help you get through the "busy work" part of CodeHS, not to blatantly cheat. The smaller quizzes in each lesson are included.**
 
 # How does it work?
 
-Two scripts, `automate.js` and `browser.js` are used to automate the process of copying code from CodeHS to this repository. Keep in mind [Node.JS](https://nodejs.org) is required to run these! **Copying quiz answers will not work. These must be done manually.**
+Two scripts, `automate.js` and `browser.js` are used to automate the process of copying code from CodeHS to this repository. Keep in mind [Node.JS](https://nodejs.org) is required to run these!
 
 `browser.js` is designed to be ran in the browser, and spits out a JSON object for use with `automate.js`. The easiest way to run the script is via a bookmarklet.
 
